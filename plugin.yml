@@ -1,0 +1,10 @@
+name: Friends
+main: CTMCentral\FriendsList\Loader
+version: 0.0.1
+api: 3.14.2
+description: "An in-game friends list system for PocketMine-MP servers"
+author: CTMCentral
+authors:
+ - jasonwynn10
+ - provsalt
+depend: ["HubTools"]
